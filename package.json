@@ -1,6 +1,6 @@
 {
   "name": "@boneskull/ascoltatori",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "ascoltatori w/ mqtt support only",
   "main": "index.js",
   "scripts": {
@@ -27,15 +27,8 @@
     "publish",
     "subscribe",
     "pubsub",
-    "rabbitmq",
-    "zeromq",
-    "0mq",
     "mqtt",
-    "amqp",
     "mosquitto",
-    "mongodb",
-    "mongo",
-    "kafka",
     "pub",
     "sub"
   ],
